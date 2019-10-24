@@ -1,6 +1,6 @@
-# author: SC
+# author: EMF
 # project: github tutorial
-# ---
+
 
 # script purpose: make mtcars plots
 # ---
